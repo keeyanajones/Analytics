@@ -1,6 +1,6 @@
 # analytics
 Analytics
- 
+
 ## what does it do
  The measurement, collection, analysis and reporting of web data for purposes of understanding and optimizing web usage
 
@@ -9,7 +9,7 @@ Analytics
 - CREATED : Apr 15, 2018 (2014)
 
 ## technology used
-JavaScript 
+JavaScript
 
 ## ambition of project
 keep track of my analytic works with github blog post
@@ -17,10 +17,10 @@ keep track of my analytic works with github blog post
 ## stage
 IN DEVELOPMENT
 
-## known issues / thing not properly done 
+## known issues / thing not properly done
 
 ## Table of Content
-- what does it do 
+- what does it do
 - what is it
 - technology used
 - ambition of project
@@ -33,7 +33,7 @@ IN DEVELOPMENT
 - running documentation locally
 - pervious releases
 - contributing
-- community 
+- community
 - versioning
 - creators
 - thanks/backers/sponsors
@@ -66,7 +66,7 @@ git push -u origin master
 …or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
-ProTip! Use the URL for this page when adding GitHub as a remote. 
+ProTip! Use the URL for this page when adding GitHub as a remote.
 
 ## status
 - STATUS : LOCAL TEST 6/7/2020 04:49:47 (as of 6/7/2020 08:49:47 Coordinated Universal Time (UTC))
@@ -81,9 +81,9 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 ## previous releases
 
 ## contributing
-  
+
 ## community
-   
+
 ## versioning
 
 ## creators
@@ -91,5 +91,5 @@ ProTip! Use the URL for this page when adding GitHub as a remote.
 
 ## thanks/backers/sponsors
 
-## copyright and license 
+## copyright and license
  - MIT License Copyright (c) 2020 Keeyana Jones
